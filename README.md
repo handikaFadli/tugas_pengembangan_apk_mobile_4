@@ -1,16 +1,13 @@
-# tugas_pertemuan_4
+<h1>Tugas 4 Pengembangan Aplikasi Mobile</h1>
 
-A new Flutter project.
+<h3>Nama : Mohamad Handika Nurfadli</h3>
+<h3>NIM : 20210120064</h3>
+<h3>Prodi : Teknik Informatika SE/5</h3>
+<br>
+<br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/handikaFadli/tugas_pengembangan_apk_mobile_4/blob/main/screenshoot/2.png" />
+<img src="https://github.com/handikaFadli/tugas_pengembangan_apk_mobile_4/blob/main/screenshoot/3.png" />
+<img src="https://github.com/handikaFadli/tugas_pengembangan_apk_mobile_4/blob/main/screenshoot/4.png" />
+<img src="https://github.com/handikaFadli/tugas_pengembangan_apk_mobile_4/blob/main/screenshoot/5.png" />
+<img src="https://github.com/handikaFadli/tugas_pengembangan_apk_mobile_4/blob/main/screenshoot/1.png" />
